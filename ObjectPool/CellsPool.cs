@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using UnityEngine.Pool;
 
 /* 
-------------------- DreamGSoft -------------------
+    ------------------- DreamGSoft -------------------
 
-Thank you for checkingout the code! I hope you find it useful in your projects. Enjoy!
+    Hi, This is Goutamraj, Thank you for Checking the code! I hope you find it useful. Enjoy!
 
---------------------------------------------------
-*/
+    --------------------------------------------------
+ */
 
 namespace DreamGSoft.Pool
 {
